@@ -14,8 +14,6 @@ TODO
 * git push
 
 
-A sua tarefa agora será adicionar o seu nome na lista abaixo.
+Para concluir esta tarefa você deve adicionar seu nome no seguinte arquivo:
 
-- Felipe Almeida
-- Aline Machado
-- Giovanna
+[Lista Nomes](https://github.com/Go-Horse-Coding/Git/blob/development/README.md)
