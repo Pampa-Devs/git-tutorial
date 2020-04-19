@@ -16,4 +16,4 @@ TODO
 
 Para concluir esta tarefa você deve adicionar seu nome no seguinte arquivo:
 
-[Lista Nomes](https://github.com/Go-Horse-Coding/Git/blob/development/NAMES.md
+[Lista Nomes](https://github.com/Go-Horse-Coding/Git/blob/development/NAMES.md)
