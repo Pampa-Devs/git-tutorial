@@ -30,7 +30,7 @@ Além disso, existem dois tipos de repositório no `git`, o **local** e o **remo
 * O **remoto** fica em um servidor como GitHub, GitLab, BitBucket, entre outros.
 ### 2. Branch
 <h1 align="center">
-  <img src="/Images/git_branch.png" alt="Git" width="220px" />
+  <img src="/Images/git_branch.png" alt="Git" width="620px" />
 </h1>
 
 Uma branch é uma `ramificação` do seu projeto. 
@@ -49,10 +49,10 @@ O Git permite que você entregue somente as partes de sua alterações que estã
 Após colocar os seus arquivos em **stage** está na hora de fazer o **commit**. Ao fazer um `git commit -m "mensagem_do_commit"` você está enviando todas as mudanças que estão em `stage` para o repositório local.
 ### 4. Histórico
 <h1 align="center">
-  <img src="/Images/git_history.png" alt="Git" width="420px" />
+  <img src="/Images/git_history.png" alt="Git" width="500px" />
 </h1>
 
-Como dito anteriormente, podemos voltar no tempo e comparar mudanças. 
+Utilizando o comando `git log` conseguimos ver todos os **commits** feitos dentro do seu repositório, mostrando a data e o autor do mesmo.
 
 ### 5. Merge
 <h1 align="center">
