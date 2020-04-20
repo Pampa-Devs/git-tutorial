@@ -56,7 +56,7 @@ Utilizando o comando `git log` conseguimos ver todos os **commits** feitos dentr
 
 ### 5. Merge
 <h1 align="center">
-  <img src="/Images/git_merge.png" alt="Git" width="650px" />
+  <img src="/Images/git_merge.png" alt="Git" width="750px" />
 </h1>
 É o `ato de fundir duas branches` (ramificações). Quando você terminar o seu trabalho, você irá fazer um `git merge` para fundir a sua branch com a branch master.
 
