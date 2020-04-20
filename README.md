@@ -39,7 +39,7 @@ Como dito anteriormente, podemos voltar no tempo e comparar mudanças.
 
 # Tutorial
 
-0. [Configurando o **Git**]()
+0. [Instalando e Configurando o **Git**]()
 1. [Criando um **Repositório Git**]()
 2. [Fazendo modificações]()
 3. [Conferindo o **Status** do repositório]()
@@ -48,6 +48,12 @@ Como dito anteriormente, podemos voltar no tempo e comparar mudanças.
 6. 
 
 # Desafio
+
+Agora está na hora de colocar tudo o que você aprendeu em prática. Criamos um desafio simples, porém irá exigir que você clone um repositório localmente, altere um arquivo, adicione esse arquivo em stage, utilize o commit e por fim o push para enviar as mudanças para o servidor.
+
+O objetivo é adicionar o seu nome no seguinte arquivo: [NAMES.md](https://github.com/Go-Horse-Coding/Git/blob/master/NAMES.md).
+
+Boa sorte :)
 
 ## Instalando o Git Bash para versionamento de software
 
@@ -80,6 +86,8 @@ Para concluir esta tarefa você deve adicionar seu nome no seguinte arquivo:
 
 # Autores
 * [Felipe Almeida](https://github.com/felipe-allmeida) - Criador do GoHorse Coding e Engenheiro de Software
+
+*Publicado em 20/04/2020*
 
 # Referências
 * https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
