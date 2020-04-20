@@ -12,7 +12,7 @@ De longe, o **sistema de controle de versão moderno** mais usado no mundo hoje 
 
 Tendo uma arquitetura distribuída, **o Git é um exemplo de DVCS** (portanto, Sistema de Controle de Versão Distribuído). **Em vez de ter apenas um único local para o histórico completo da versão do software**, como é comum em sistemas de controle de versão outrora populares como CVS ou Subversion (também conhecido como SVN), no Git, **a cópia de trabalho de todo desenvolvedor do código também é um repositório** que pode conter o histórico completo de todas as alterações.
 
-## Conceitos
+## Conceitos [WIP]
 
 ### 1. Repositório
 Um repositório git é a pasta `.git/` dentro de um projeto. Este repositório vai mapear todas as mudanças feitas nos arquivos dos seus projetos, contruindo um histórico ao longo do tempo. Isso significa que se você deletarem a pasta `.git/`, vocês deletam todo o histórico de mudanças de seu projeto.
@@ -23,9 +23,7 @@ Pense no seguinte: você é o desenvolvedor de um site e recebe a tarefa de adic
 
 Para não causar problemas no site que as pessoas utilizam, cria uma ramificação do site (branch master) no seu computador (branch de local de desenvolvimento) para então adicionar as mudanças. Ao terminar o seu trabalho, você simplesmente envia suas mudanças para o site, devolvendo a sua ramificação de volta para sua origem.
 ### 2. Merge
-É o ato de fundir duas branches (ramificações). 
-
-Quando você termina o seu trabalho na branch de desenvolvimento e deseja passar as mudanças 
+É o ato de fundir duas branches (ramificações). Quando você terminar o seu trabalho, você irá fazer um `git merge` para fundir a sua branch com a branch master.
 
 ### 3. Branch
 ### 4. Merge
@@ -42,17 +40,22 @@ Quando você termina o seu trabalho na branch de desenvolvimento e deseja passar
 2. Após o download execute o arquivo.
 3. Aperte **Next** para todas as opções.
 
-## Tarefa
-
-Vamos agora utlizar o Git para alterar o arquivo [NAMES.md](https://github.com/Go-Horse-Coding/Git/blob/development/NAMES.md)
-
-## Comandos
+## Comandos [WIP]
 
 * git status
 * git add .
 * git commit -m "mensagem"
 * git push
-s
+
+## Usando o Git Bash [WIP]
+
+TO DO
+
+## Tarefa [WIP]
+
+Vamos agora utlizar o Git para alterar o arquivo [NAMES.md](https://github.com/Go-Horse-Coding/Git/blob/development/NAMES.md)
+
+
 
 Para concluir esta tarefa você deve adicionar seu nome no seguinte arquivo:
 
