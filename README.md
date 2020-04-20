@@ -16,7 +16,7 @@ Tendo uma arquitetura distribuída, **o Git é um exemplo de DVCS** (portanto, S
 
 TODO
 
-## Instalando Git Bash   <img src="/Images/git_bash.png" alt="Git" width="50px" />
+## <img src="/Images/git_bash.png" alt="Git" width="50px" /> Instalando Git Bash   
 
 TODO
 
