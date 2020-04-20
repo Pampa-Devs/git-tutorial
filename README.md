@@ -18,17 +18,22 @@ Tendo uma arquitetura distribuída, **o Git é um exemplo de DVCS** (portanto, S
 
 ### 1. Repositório
 Um repositório git é a pasta `.git/` dentro de um projeto. Este repositório vai mapear todas as mudanças feitas nos arquivos dos seus projetos, contruindo um histórico ao longo do tempo. Isso significa que se você deletarem a pasta `.git/`, vocês deletam todo o histórico de mudanças de seu projeto.
-
 ### 2. Branch
 Uma branch é uma `ramificação` do seu projeto. 
 
 Pense no seguinte: você é o desenvolvedor de um site e recebe a tarefa de adicionar uma nova página em um site. 
 
 Para não causar problemas no site que as pessoas utilizam, cria uma ramificação do site `(branch master)` no seu computador `(branch de local de desenvolvimento)` para então adicionar as mudanças. Ao terminar o seu trabalho, você simplesmente envia suas mudanças para o site, devolvendo a sua ramificação de volta para sua origem.
-
 ### 3. Stage
+Colocar um arquivo em `stage` significa que ele esta pronto para ser enviado ao repositório. 
 
-### 4. Merge
+O Git permite que você entregue somente as partes de sua alterações que estão prontas. Isso se chama colocar um arquivo em `stage`.
+### 4. Commit
+Após colocar os seus arquivos em `stage` está na hora de fazer o `commit`. Ao fazer um `commit` você está enviando todas as mudanças que estão em `stage` para o repositório.
+### 5. Histórico
+Como dito anteriormente, podemos voltar no tempo e comparar mudanças. 
+
+### 6. Merge
 É o `ato de fundir duas branches` (ramificações). Quando você terminar o seu trabalho, você irá fazer um `git merge` para fundir a sua branch com a branch master.
 
 
