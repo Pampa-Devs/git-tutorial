@@ -49,6 +49,7 @@ Após colocar os seus arquivos em **stage** está na hora de fazer o **commit**.
 <h1 align="center">
   <img src="/Images/git_stage.png" alt="Git" width="420px" />
 </h1>
+
 ### 4. Histórico
 Utilizando o comando `git log` conseguimos ver todos os **commits** feitos dentro do seu repositório, mostrando a data e o autor do mesmo.
 
