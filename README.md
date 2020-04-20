@@ -19,47 +19,49 @@ Tendo uma arquitetura distribuída, **o Git é um exemplo de DVCS** (portanto, S
 ## Inciando no Git
 
 ### 1. Repositório
-<h1 align="center">
-  <img src="/Images/git_repository.png" alt="Git" width="420px" />
-</h1>
-
-Um repositório git é a pasta `.git/` dentro de um projeto. Este repositório vai mapear todas as mudanças feitas nos arquivos dos seus projetos, contruindo um histórico ao longo do tempo. Isso significa que se você deletarem a pasta `.git/`, vocês deletam todo o histórico de mudanças de seu projeto.
+Um repositório git é a pasta `.git/` dentro de um projeto. Este repositório vai mapear todas as mudanças feitas nos arquivos dos seus projetos, construindo um histórico ao longo do tempo. Isso significa que se você deletar a pasta `.git/`, automaticamente todo o histórico de mudanças de seu projeto será deletado.
 
 Além disso, existem dois tipos de repositório no `git`, o **local** e o **remoto**:
 * O **local** é o repositório que fica na sua máquina de trabalho. Ele é criado utilizando o comando `git init` dentro da pasta do projeto.
 * O **remoto** fica em um servidor como GitHub, GitLab, BitBucket, entre outros.
+
+<h1 align="center">
+  <img src="/Images/git_repository.png" alt="Git" width="420px" />
+</h1>
+
 ### 2. Branch
+A **Branch** é uma **ramificação** do seu projeto. 
+
+Pense no seguinte: você é o desenvolvedor de um site e recebe a tarefa de adicionar uma nova página no mesmo. 
+
+Para não causar problemas no site que as pessoas utilizam, você cria uma ramificação do site **(branch master)** no seu computador **(branch local de desenvolvimento)** para então adicionar as mudanças. Ao terminar o seu trabalho, você simplesmente envia suas mudanças para o site, devolvendo a sua ramificação de volta para sua origem.
+
 <h1 align="center">
   <img src="/Images/git_branch.png" alt="Git" width="620px" />
 </h1>
 
-Uma branch é uma `ramificação` do seu projeto. 
-
-Pense no seguinte: você é o desenvolvedor de um site e recebe a tarefa de adicionar uma nova página em um site. 
-
-Para não causar problemas no site que as pessoas utilizam, cria uma ramificação do site `(branch master)` no seu computador `(branch de local de desenvolvimento)` para então adicionar as mudanças. Ao terminar o seu trabalho, você simplesmente envia suas mudanças para o site, devolvendo a sua ramificação de volta para sua origem.
 ### 3. Stage e Commit
-<h1 align="center">
-  <img src="/Images/git_stage.png" alt="Git" width="420px" />
-</h1>
-
-Colocar um arquivo em **stage** significa que ele esta **pronto para ser enviado ao repositório**. Você faz isso utilizando o comando `git add nome_arquivo`.
+Colocar um arquivo em **stage** significa que ele está  **pronto para ser enviado ao repositório**. Você faz isso utilizando o comando `git add nome_arquivo`.
 O Git permite que você entregue somente as partes de sua alterações que estão prontas. Isso se chama colocar um arquivo em `stage`.
 <br>
 Após colocar os seus arquivos em **stage** está na hora de fazer o **commit**. Ao fazer um `git commit -m "mensagem_do_commit"` você está enviando todas as mudanças que estão em `stage` para o repositório local.
+
+<h1 align="center">
+  <img src="/Images/git_stage.png" alt="Git" width="420px" />
+</h1>
 ### 4. Histórico
+Utilizando o comando `git log` conseguimos ver todos os **commits** feitos dentro do seu repositório, mostrando a data e o autor do mesmo.
+
 <h1 align="center">
   <img src="/Images/git_history.png" alt="Git" width="500px" />
 </h1>
 
-Utilizando o comando `git log` conseguimos ver todos os **commits** feitos dentro do seu repositório, mostrando a data e o autor do mesmo.
-
 ### 5. Merge
+É o `ato de fundir duas branches` (ramificações). Quando você terminar o seu trabalho, você irá fazer um `git merge` para fundir a sua branch com a branch master.
+
 <h1 align="center">
   <img src="/Images/git_merge.png" alt="Git" width="750px" />
 </h1>
-É o `ato de fundir duas branches` (ramificações). Quando você terminar o seu trabalho, você irá fazer um `git merge` para fundir a sua branch com a branch master.
-
 
 # Tutorial
 
