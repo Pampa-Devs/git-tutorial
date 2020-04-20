@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/images/git.png" alt="Git" width="120px" />
+  <img src="/Images/git.png" alt="Git" width="120px" />
 </h1>
 
 ## O que é Controle de Versão?
@@ -26,7 +26,7 @@ TODO
 * git add .
 * git commit -m "mensagem"
 * git push
-
+s
 
 Para concluir esta tarefa você deve adicionar seu nome no seguinte arquivo:
 
