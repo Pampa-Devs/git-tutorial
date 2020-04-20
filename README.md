@@ -19,18 +19,27 @@ Tendo uma arquitetura distribuída, **o Git é um exemplo de DVCS** (portanto, S
 ## Inciando no Git
 
 ### 1. Repositório
+<h1 align="center">
+  <img src="/Images/git_repository.png" alt="Git" width="220px" />
+</h1>
 Um repositório git é a pasta `.git/` dentro de um projeto. Este repositório vai mapear todas as mudanças feitas nos arquivos dos seus projetos, contruindo um histórico ao longo do tempo. Isso significa que se você deletarem a pasta `.git/`, vocês deletam todo o histórico de mudanças de seu projeto.
 
 Além disso, existem dois tipos de repositório no `git`, o **local** e o **remoto**:
 * O **local** é o repositório que fica na sua máquina de trabalho. Ele é criado utilizando o comando `git init` dentro da pasta do projeto.
 * O **remoto** fica em um servidor como GitHub, GitLab, BitBucket, entre outros.
 ### 2. Branch
+<h1 align="center">
+  <img src="/Images/git_branching.png" alt="Git" width="220px" />
+</h1>
 Uma branch é uma `ramificação` do seu projeto. 
 
 Pense no seguinte: você é o desenvolvedor de um site e recebe a tarefa de adicionar uma nova página em um site. 
 
 Para não causar problemas no site que as pessoas utilizam, cria uma ramificação do site `(branch master)` no seu computador `(branch de local de desenvolvimento)` para então adicionar as mudanças. Ao terminar o seu trabalho, você simplesmente envia suas mudanças para o site, devolvendo a sua ramificação de volta para sua origem.
 ### 3. Stage
+<h1 align="center">
+  <img src="/Images/git_stage.png" alt="Git" width="220px" />
+</h1>
 Colocar um arquivo em `stage` significa que ele esta pronto para ser enviado ao repositório. 
 
 O Git permite que você entregue somente as partes de sua alterações que estão prontas. Isso se chama colocar um arquivo em `stage`.
