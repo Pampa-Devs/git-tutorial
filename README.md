@@ -14,25 +14,34 @@ De longe, o **sistema de controle de versão moderno** mais usado no mundo hoje 
 
 Tendo uma arquitetura distribuída, **o Git é um exemplo de DVCS** (portanto, Sistema de Controle de Versão Distribuído). **Em vez de ter apenas um único local para o histórico completo da versão do software**, como é comum em sistemas de controle de versão outrora populares como CVS ou Subversion (também conhecido como SVN), no Git, **a cópia de trabalho de todo desenvolvedor do código também é um repositório** que pode conter o histórico completo de todas as alterações.
 
-## Conceitos [WIP]
+## Inciando no Git
 
 ### 1. Repositório
 Um repositório git é a pasta `.git/` dentro de um projeto. Este repositório vai mapear todas as mudanças feitas nos arquivos dos seus projetos, contruindo um histórico ao longo do tempo. Isso significa que se você deletarem a pasta `.git/`, vocês deletam todo o histórico de mudanças de seu projeto.
+
 ### 2. Branch
-Uma branch é uma ramificação do seu projeto. 
+Uma branch é uma `ramificação` do seu projeto. 
 
 Pense no seguinte: você é o desenvolvedor de um site e recebe a tarefa de adicionar uma nova página em um site. 
 
-Para não causar problemas no site que as pessoas utilizam, cria uma ramificação do site (branch master) no seu computador (branch de local de desenvolvimento) para então adicionar as mudanças. Ao terminar o seu trabalho, você simplesmente envia suas mudanças para o site, devolvendo a sua ramificação de volta para sua origem.
-### 2. Merge
-É o ato de fundir duas branches (ramificações). Quando você terminar o seu trabalho, você irá fazer um `git merge` para fundir a sua branch com a branch master.
+Para não causar problemas no site que as pessoas utilizam, cria uma ramificação do site `(branch master)` no seu computador `(branch de local de desenvolvimento)` para então adicionar as mudanças. Ao terminar o seu trabalho, você simplesmente envia suas mudanças para o site, devolvendo a sua ramificação de volta para sua origem.
 
-### 3. Branch
+### 3. Stage
+
 ### 4. Merge
-### 5. Status
-### 6. Diff
+É o `ato de fundir duas branches` (ramificações). Quando você terminar o seu trabalho, você irá fazer um `git merge` para fundir a sua branch com a branch master.
+
 
 # Tutorial
+
+1. [Criando um **Repositório Git**]()
+2. [Fazendo modificações]
+3. [Conferindo o **Status** do repositório]()
+4. [Adicionando modificações ao **Stage**]
+5. [Fazendo **Commit** das modificações]
+6. 
+
+# Desafio
 
 ## Instalando o Git Bash para versionamento de software
 
