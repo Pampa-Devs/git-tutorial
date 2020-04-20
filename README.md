@@ -40,11 +40,10 @@ Para não causar problemas no site que as pessoas utilizam, cria uma ramificaç�
 <h1 align="center">
   <img src="/Images/git_stage.png" alt="Git" width="420px" />
 </h1>
-Colocar um arquivo em `stage` significa que ele esta pronto para ser enviado ao repositório. Você faz isso utilizando o comando `git add nome_arquivo`
+Colocar um arquivo em **stage** significa que ele esta **pronto para ser enviado ao repositório**. Você faz isso utilizando o comando `git add nome_arquivo`.
 O Git permite que você entregue somente as partes de sua alterações que estão prontas. Isso se chama colocar um arquivo em `stage`.
-
-Após colocar os seus arquivos em `stage` está na hora de fazer o `commit`. Ao fazer um `git commit -m "mensagem_do_commit"` você está enviando todas as mudanças que estão em `stage` para o repositório local.
-
+<br>
+Após colocar os seus arquivos em **stage** está na hora de fazer o **commit**. Ao fazer um `git commit -m "mensagem_do_commit"` você está enviando todas as mudanças que estão em `stage` para o repositório local.
 ### 4. Histórico
 Como dito anteriormente, podemos voltar no tempo e comparar mudanças. 
 
