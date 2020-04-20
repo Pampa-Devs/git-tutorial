@@ -14,12 +14,23 @@ Tendo uma arquitetura distribuída, **o Git é um exemplo de DVCS** (portanto, S
 
 ## Conceitos
 
-1. [Repositório](/3-comandos/repositorio.md)
-2. Commit
-3. Branch
-4. Merge
-5. Status
-6. Diff
+### 1. Repositório
+Um repositório git é a pasta `.git/` dentro de um projeto. Este repositório vai mapear todas as mudanças feitas nos arquivos dos seus projetos, contruindo um histórico ao longo do tempo. Isso significa que se você deletarem a pasta `.git/`, vocês deletam todo o histórico de mudanças de seu projeto.
+### 2. Branch
+Uma branch é uma ramificação do seu projeto. 
+
+Pense no seguinte: você é o desenvolvedor de um site e recebe a tarefa de adicionar uma nova página em um site. 
+
+Para não causar problemas no site que as pessoas utilizam, cria uma ramificação do site (branch master) no seu computador (branch de local de desenvolvimento) para então adicionar as mudanças. Ao terminar o seu trabalho, você simplesmente envia suas mudanças para o site, devolvendo a sua ramificação de volta para sua origem.
+### 2. Merge
+É o ato de fundir duas branches (ramificações). 
+
+Quando você termina o seu trabalho na branch de desenvolvimento e deseja passar as mudanças 
+
+### 3. Branch
+### 4. Merge
+### 5. Status
+### 6. Diff
 
 # Tutorial
 
