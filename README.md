@@ -1,6 +1,7 @@
 <h1 align="center">
   <img src="/Images/git.png" alt="Git" width="220px" />
 </h1>
+# Git para iniciantes
 
 ## O que é Controle de Versão?
 
