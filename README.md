@@ -35,10 +35,10 @@ Para não causar problemas no site que as pessoas utilizam, cria uma ramificaç�
 # Tutorial
 
 1. [Criando um **Repositório Git**]()
-2. [Fazendo modificações]
+2. [Fazendo modificações]()
 3. [Conferindo o **Status** do repositório]()
-4. [Adicionando modificações ao **Stage**]
-5. [Fazendo **Commit** das modificações]
+4. [Adicionando modificações ao **Stage**]()
+5. [Fazendo **Commit** das modificações]()
 6. 
 
 # Desafio
