@@ -53,13 +53,13 @@ TO DO
 
 ## Tarefa [WIP]
 
-Vamos agora utlizar o Git para alterar o arquivo [NAMES.md](https://github.com/Go-Horse-Coding/Git/blob/development/NAMES.md)
+Vamos agora utlizar o Git para alterar o arquivo [NAMES.md](https://github.com/Go-Horse-Coding/Git/blob/master/NAMES.md)
 
 
 
 Para concluir esta tarefa você deve adicionar seu nome no seguinte arquivo:
 
-[Lista Nomes](https://github.com/Go-Horse-Coding/Git/blob/development/NAMES.md)
+[Lista Nomes](https://github.com/Go-Horse-Coding/Git/blob/master/NAMES.md)
 
 # Autores
 * [Felipe Almeida](https://github.com/felipe-allmeida) - Criador do GoHorse Coding e Engenheiro de Software
