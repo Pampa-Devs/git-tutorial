@@ -30,7 +30,7 @@ Além disso, existem dois tipos de repositório no `git`, o **local** e o **remo
 * O **remoto** fica em um servidor como GitHub, GitLab, BitBucket, entre outros.
 ### 2. Branch
 <h1 align="center">
-  <img src="/Images/git_branching.png" alt="Git" width="220px" />
+  <img src="/Images/git_branch.png" alt="Git" width="220px" />
 </h1>
 
 Uma branch é uma `ramificação` do seu projeto. 
@@ -48,9 +48,17 @@ O Git permite que você entregue somente as partes de sua alterações que estã
 <br>
 Após colocar os seus arquivos em **stage** está na hora de fazer o **commit**. Ao fazer um `git commit -m "mensagem_do_commit"` você está enviando todas as mudanças que estão em `stage` para o repositório local.
 ### 4. Histórico
+<h1 align="center">
+  <img src="/Images/git_history.png" alt="Git" width="420px" />
+</h1>
+
 Como dito anteriormente, podemos voltar no tempo e comparar mudanças. 
 
 ### 5. Merge
+<h1 align="center">
+  <img src="/Images/git_merge.png" alt="Git" width="420px" />
+</h1>
+
 É o `ato de fundir duas branches` (ramificações). Quando você terminar o seu trabalho, você irá fazer um `git merge` para fundir a sua branch com a branch master.
 
 
