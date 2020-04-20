@@ -7,7 +7,7 @@
 ## O que é Controle de Versão?
 
 É uma categoria de ferramentas de software que **ajuda um time de software gerenciar mudanças no código fonte** ao longo do tempo. O software de controle de versão **controla todas as modificações no código** em um tipo especial de banco de dados. **Se um erro for cometido, os desenvolvedores podem voltar no tempo e comparar versões anteriores do código para ajudar a corrigir o erro** e minimizar a interrupção para todos os membros da equipe.
-https://github.com/Go-Horse-Coding/Git
+
 ## O que é Git?
 
 De longe, o **sistema de controle de versão moderno** mais usado no mundo hoje é o Git. O Git é um projeto de código aberto maduro, mantido ativamente, originalmente **desenvolvido em 2005 por Linus Torvalds**, o famoso **criador do kernel do sistema operacional Linux**.
@@ -34,6 +34,7 @@ Para não causar problemas no site que as pessoas utilizam, cria uma ramificaç�
 
 # Tutorial
 
+0. [Configurando o **Git**]()
 1. [Criando um **Repositório Git**]()
 2. [Fazendo modificações]()
 3. [Conferindo o **Status** do repositório]()
@@ -74,3 +75,10 @@ Para concluir esta tarefa você deve adicionar seu nome no seguinte arquivo:
 
 # Autores
 * [Felipe Almeida](https://github.com/felipe-allmeida) - Criador do GoHorse Coding e Engenheiro de Software
+
+# Referências
+* https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
+* https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+* https://medium.com/@programadriano/git-para-iniciantes-3b38fa5d4ddf
+* https://githowto.com/pt-BR
+* https://guide.freecodecamp.org/git
