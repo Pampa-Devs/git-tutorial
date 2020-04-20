@@ -55,9 +55,6 @@ Após colocar os seus arquivos em **stage** está na hora de fazer o **commit**.
 Utilizando o comando `git log` conseguimos ver todos os **commits** feitos dentro do seu repositório, mostrando a data e o autor do mesmo.
 
 ### 5. Merge
-<h1 align="center">
-  <img src="/Images/git_merge.png" alt="Git" width="420px" />
-</h1>
 
 É o `ato de fundir duas branches` (ramificações). Quando você terminar o seu trabalho, você irá fazer um `git merge` para fundir a sua branch com a branch master.
 
