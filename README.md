@@ -90,6 +90,7 @@ Para concluir esta tarefa você deve adicionar seu nome no seguinte arquivo:
 * [Felipe Almeida](https://github.com/felipe-allmeida) - Criador do GoHorse Coding e Engenheiro de Software
 
 # Referências
+* https://help.github.com/en/github/getting-started-with-github/quickstart
 * https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
 * https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
 * https://medium.com/@programadriano/git-para-iniciantes-3b38fa5d4ddf
