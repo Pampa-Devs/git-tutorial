@@ -20,6 +20,10 @@ Tendo uma arquitetura distribuída, **o Git é um exemplo de DVCS** (portanto, S
 
 ### 1. Repositório
 Um repositório git é a pasta `.git/` dentro de um projeto. Este repositório vai mapear todas as mudanças feitas nos arquivos dos seus projetos, contruindo um histórico ao longo do tempo. Isso significa que se você deletarem a pasta `.git/`, vocês deletam todo o histórico de mudanças de seu projeto.
+
+Além disso, existem dois tipos de repositório no `git`, o **local** e o **remoto**:
+* O **local** é o repositório que fica na sua máquina de trabalho. Ele é criado utilizando o comando `git init` dentro da pasta do projeto.
+* O **remoto** fica em um servidor como GitHub, GitLab, BitBucket, entre outros.
 ### 2. Branch
 Uma branch é uma `ramificação` do seu projeto. 
 
