@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="/Images/git.png" alt="Git" width="120px" />
+  <img src="/Images/git.png" alt="Git" width="220px" />
 </h1>
 
 ## O que é Controle de Versão?
