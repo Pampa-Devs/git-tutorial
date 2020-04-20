@@ -59,4 +59,4 @@ Para concluir esta tarefa você deve adicionar seu nome no seguinte arquivo:
 [Lista Nomes](https://github.com/Go-Horse-Coding/Git/blob/development/NAMES.md)
 
 # Autores
-* [felipe-allmeida](https://github.com/felipe-allmeida)
+* [Felipe Almeida](https://github.com/felipe-allmeida) - Criador do GoHorse Coding e Engenheiro de Software
