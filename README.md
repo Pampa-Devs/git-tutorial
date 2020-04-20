@@ -1,4 +1,6 @@
-[Image of Version Control](https://images.app.goo.gl/JduZuXY4TXYxTGy56)
+<h1 align="center">
+  <img src="/images//git.svg" alt="Git" width="120px" />
+</h1>
 
 ## O que é Controle de Versão?
 
