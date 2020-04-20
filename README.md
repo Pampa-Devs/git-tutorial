@@ -2,7 +2,9 @@
   <img src="/Images/git.png" alt="Git" width="220px" />
 </h1>
 
-# Git para iniciantes
+# Git para iniciantes 
+*Este arquivo foi escrito em abril de 2020*
+
 
 ## O que é Controle de Versão?
 
@@ -86,8 +88,6 @@ Para concluir esta tarefa você deve adicionar seu nome no seguinte arquivo:
 
 # Autores
 * [Felipe Almeida](https://github.com/felipe-allmeida) - Criador do GoHorse Coding e Engenheiro de Software
-
-*Publicado em 20/04/2020*
 
 # Referências
 * https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control
