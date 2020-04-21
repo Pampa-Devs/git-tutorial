@@ -10,7 +10,7 @@ $ mkdir git4noobs
 ```
 $ cd git4noobs
 ```
-3. Agora vamos inicializar o repositório:
+4. Agora vamos inicializar o repositório:
 ```
 $ git init
 Initialized empty Git repository in ~/git4noobs/.git/
