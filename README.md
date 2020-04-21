@@ -84,8 +84,8 @@ Pois então, criei alguns pequenos tutoriais abordando todos os conceitos acima:
 5. [Colocando as Modificações em Stage e Fazendo Commit](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/5-adding-to-stage.md)
 6. [Comparando e Desfazendo Modificações](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/6-undoing-changes.md)
 7. [Criando um Repositório Remoto](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/7-create-remote-repository.md)
-8. [Enviando as Modificações para o Repositório Remoto](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/8-pushing-to-remote-repository.md)
-9. [Fazendo Modificações Diretamente no Repositório Remoto](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/9-make-modifications-repository.md)
+8. [Enviando as Modificações para o Repositório Remoto](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/8-pusing-to-remote-repository.md)
+9. [Fazendo Modificações Diretamente no Repositório Remoto](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/9-make-modifications-remote.md)
 10. [Atualizando o Repositório Local](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/10-pulling-modifications-remote.md)
 
 # Desafio
