@@ -2,7 +2,7 @@
   <img src="/Images/git.png" alt="Git" width="220px" />
 </h1>
 
-# Git para Iniciantes 
+# Git - Iniciando em Controle de Versão
 *Este arquivo foi escrito em abril de 2020*
 
 
