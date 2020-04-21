@@ -4,7 +4,7 @@ No capítulo anterior, adicionamos modificações no arquivo **README.md** em no
 
 <br>
 
-Para isso, abra a **CLI do GitBash** dentro da pasta do seu projeto **git4noobs** e digite o ´git pull´ para atualizar o seu repositório local:
+Para isso, abra a **CLI do GitBash** dentro da pasta do seu projeto **git4noobs** e digite o `git pull` para atualizar o seu repositório local:
 
 ```
 $ git pull
@@ -24,6 +24,10 @@ Abra o seu arquivo **README.md** no seu **repositório local** e veja que as alt
 
 <br>
 
-Isso quer dizer que agora o seu **repositório local** está igual ao **repositório remoto**. Com isso chegamos ao final de nosso tutorial, espero que você tenha aproveitado!
+Isso quer dizer que agora o seu **repositório local** está igual ao **repositório remoto**. 
+
+<br>
+
+Com isso chegamos ao final de nosso tutorial, espero que você tenha aproveitado!
 
 [&larr; Voltar a página inicial](https://github.com/Go-Horse-Coding/git-tutorial/blob/master/README.md)
