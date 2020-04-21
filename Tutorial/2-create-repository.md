@@ -1,0 +1,17 @@
+# 2. Criando um Repositório Git
+
+Agora vamos criar um **repositório** local em seu computador:
+1. Abra o **Git Bash** que instalamos no capítulo anterior.
+1. Utilizando o **Git Bash**, crie um novo diretório:
+```
+$ mkdir git4noobs
+```
+2. Agora vamos inicializar o repositório:
+```
+$ git init
+Initialized empty Git repository in ~/git4noobs/.git/
+```
+
+E *voilà*, repositório criado.
+
+[3. Fazendo modificações &rarr;](https://github.com/Go-Horse-Coding/Git/edit/master/Tutorial/2-create-repository.md)    
