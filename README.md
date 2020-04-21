@@ -66,6 +66,18 @@ Utilizando o comando `git log` conseguimos ver todos os **commits** feitos dentr
 
 # Tutorial
 
+Depois de toda essa aula teórica, imagino que você gostaria de algo mais prático não? 
+
+<br>
+
+Pois então, criei alguns pequenos tutoriais abordando todos os conceitos acima.
+
+
+<br>
+
+
+Bom estudo!
+
 0. [Instalando e Configurando o **Git**]()
 1. [Criando um **Repositório Git**]()
 2. [Fazendo modificações]()
