@@ -99,7 +99,7 @@ Para isso você vai precisar fazer um **fork** deste repositório e um **pull re
 * [Felipe Almeida](https://github.com/felipe-allmeida) - Fundador do GoHorse Coding e Engenheiro de Software
 
 # Agradecimentos especiais
-Todos nessa lista contribuiram de alguma forma seja revisando, achando sinônimos. Básicamente alguma coisa que tornou o tutorial mais simples de se ler :)
+Todos nessa lista contribuiram de alguma forma seja revisando, achando sinônimos. Basicamente alguma coisa que tornou o tutorial mais simples de se ler :)
 * [usaruki](https://github.com/usaruki) - Por revisar todo o material inúmeras vezes de madrugada
 * [gvdamian](https://github.com/gvdamian)
 * [mpplayer1](https://github.com/mpplayer1)
