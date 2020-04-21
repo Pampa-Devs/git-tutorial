@@ -32,4 +32,4 @@ Você pode armazenar inúmeros repositórios no GitHub, podendo compartilhar com
 
 Parabéns! Você agora criou o seu primeiro repositório com êxito o/
 
-[&larr; Voltar a página inicial](https://github.com/Go-Horse-Coding/Git/blob/master/README.md)
+[&larr; Voltar a página inicial](https://github.com/Go-Horse-Coding/https://github.com/Go-Horse-Coding/git-tutorial/blob/master/README.md)
