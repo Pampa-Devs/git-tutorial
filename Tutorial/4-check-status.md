@@ -13,4 +13,6 @@ Untracked files:
         README.md
 ```
 
-Na imagem abaixo, observe que o arquivo **README.md** esta sinalizado como **untracked (não rastreado)** pois ainda não adicionamos o mesmo na área de **stage**.
+Observe que o arquivo **README.md** esta sinalizado como **untracked (não rastreado)** pois ainda não adicionamos o mesmo na área de **stage**.
+
+[**5.** Colocando as modificações em **Stage** &rarr;](https://github.com/Go-Horse-Coding/Git/edit/master/Tutorial/5-adding-to-stage.md)
