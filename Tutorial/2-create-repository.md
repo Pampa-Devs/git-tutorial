@@ -5,6 +5,7 @@ Agora vamos criar um **repositório** local em seu computador:
 1. Utilizando o **Git Bash**, crie um novo diretório:
 ```
 $ mkdir git4noobs
+$ cd git4noobs
 ```
 2. Agora vamos inicializar o repositório:
 ```
