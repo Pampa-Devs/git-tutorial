@@ -2,7 +2,7 @@
   <img src="/Images/git.png" alt="Git" width="220px" />
 </h1>
 
-# Git para iniciantes 
+# Git para Iniciantes 
 *Este arquivo foi escrito em abril de 2020*
 
 
@@ -64,19 +64,15 @@ Utilizando o comando `git log` conseguimos ver todos os **commits** feitos dentr
   <img src="/Images/git_merge.png" alt="Git" width="750px" />
 </h1>
 
-# Tutorial
+# Mão na Massa!
 
 Depois de toda essa aula teórica, imagino que você gostaria de algo mais prático não? 
 
 <br>
 
-Pois então, criei alguns pequenos tutoriais abordando todos os conceitos acima.
-
+Pois então, criei alguns pequenos tutoriais abordando todos os conceitos acima:
 
 <br>
-
-
-Bom estudo!
 
 1. [Instalando e configurando o **Git**](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/1-install-git.md)
 2. [Criando um **Repositório Git Local**](https://github.com/Go-Horse-Coding/Git/blod/master/Tutorial/2-create-repository.md)
