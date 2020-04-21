@@ -75,7 +75,7 @@ Pois então, criei alguns pequenos tutoriais abordando todos os conceitos acima:
 <br>
 
 1. [Instalando e configurando o **Git**](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/1-install-git.md)
-2. [Criando um **Repositório Git Local**](https://github.com/Go-Horse-Coding/Git/blod/master/Tutorial/2-create-repository.md)
+2. [Criando um **Repositório Git Local**](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/2-create-repository.md)
 3. [Fazendo Modificações](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/3-make-modifications.md)
 4. [Conferindo o **Status** do repositório](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/4-check-status.md)
 5. [Colocando as Modificações em Stage e Fazendo Commit](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/5-adding-to-stage.md)
