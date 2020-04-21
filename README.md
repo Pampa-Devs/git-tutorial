@@ -71,8 +71,6 @@ Assim como podemos enviar nossas modificações para um **repositório remoto**,
 
 Depois de toda essa aula teórica, imagino que você gostaria de algo mais prático não? 
 
-<br>
-
 Pois então, criei alguns pequenos tutoriais abordando todos os conceitos acima:
 
 <br>
@@ -94,7 +92,7 @@ Agora está na hora de colocar tudo o que você aprendeu em prática. Criamos um
 
 <br>
 
-O objetivo é adicionar o seu nome no seguinte arquivo: [NAMES.md](https://github.com/Go-Horse-Coding/Git/blob/master/NAMES.md).
+**O objetivo é adicionar o seu nome no seguinte arquivo: [NAMES.md](https://github.com/Go-Horse-Coding/Git/blob/master/NAMES.md).**
 
 <br>
 
