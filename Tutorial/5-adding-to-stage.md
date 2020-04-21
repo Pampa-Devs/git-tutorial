@@ -53,4 +53,4 @@ nothing to commit, working tree clean
 ```
 O diretório de trabalho agora está limpo pois suas alterações foram enviadas ao repositório local!
 
-[**6.** Criando um Repositório Remoto &rarr;](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/6-create-remote-repository.md)
+[**6.** Comparando e Desfazendo Modificações &rarr;](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/6-undoing-changes.md)

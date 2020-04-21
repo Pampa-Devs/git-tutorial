@@ -57,6 +57,9 @@ Utilizando o comando `git log` conseguimos ver todos os **commits** feitos dentr
   <img src="/Images/git_history.png" alt="Git" width="500px" />
 </h1>
 
+### 4. Pull
+Assim como podemos enviar nossas modificações para um **repositório remoto**, podemos atualizar o nosso **repositório local** com a versão mais atual do **repositório remoto**. Conseguimos fazer isso utilizando o comando `git pull`.
+
 ### 5. Merge
 É o `ato de fundir duas branches` (ramificações). Quando você terminar o seu trabalho, você irá fazer um `git merge` para fundir a sua branch com a branch master.
 
@@ -79,7 +82,11 @@ Pois então, criei alguns pequenos tutoriais abordando todos os conceitos acima:
 3. [Fazendo Modificações](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/3-make-modifications.md)
 4. [Conferindo o **Status** do repositório](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/4-check-status.md)
 5. [Colocando as Modificações em Stage e Fazendo Commit](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/5-adding-to-stage.md)
-6. [Criando um Repositório Remoto](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/6-create-remote-repository.md)
+6. [Comparando e Desfazendo Modificações](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/6-undoing-changes.md)
+7. [Criando um Repositório Remoto](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/7-create-remote-repository.md)
+8. [Enviando as Modificações para o Repositório Remoto](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/8-pushing-to-remote-repository.md)
+9. [Fazendo Modificações Diretamente no Repositório Remoto](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/9-make-modifications-repository.md)
+10. [Atualizando o Repositório Local](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/10-pulling-modifications-remote.md)
 
 # Desafio
 
@@ -91,8 +98,23 @@ O objetivo é adicionar o seu nome no seguinte arquivo: [NAMES.md](https://githu
 
 <br>
 
-Para isso você vai precisar fazer um **fork** deste repositório e um **pull request** após adicionar o seu nome. Eu sei, você deve estar se perguntando o que é um **fork** e um **pull request**, isso também faz parte do desafio, buscar informações faz parte dia a dia de um desenvolvedor!
-
+Para fazer isso você vai precisar seguir esses passos:
+1. Realize um **Fork** deste projeto clicando no botão **Fork** no parte superior direita desta página.
+2. Clique em **Clone or download** e copie a url 
+3. Em uma pasta em seu computador, abra o **Git Bash** e digite ´git checkout´ junto da url copiada
+```
+$ git checkout https://github.com/seu_usuario_git/git-tutorial.git
+```
+4. Entre na pasta recém criada, **git-tutorial** e adicione o seu úsuario do GitHub no arquivo **NAMES.md**.
+5. Envie suas alterações para o seu repósitório **Fork**
+```
+$ git add .
+$ git commit -m "Adicionei o meu usuário github"
+$ git push
+```
+6. Volte para [esta página](https://github.com/Go-Horse-Coding/git-tutorial) e clique em **Pull Requests** na parte superior.
+7. Crie um novo **Pull Request** clicando em **New pull request** e onde diz **compare:** selecione o repositório **fork** que você criou.
+8. Envie o **Pull Request**. Se tudo estiver correto um moderador irá aprovar e o seu nome irá aparecer no **NAMES.md**
 
 
 # Autores
