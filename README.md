@@ -87,7 +87,7 @@ Agora está na hora de colocar tudo o que você aprendeu em prática. Criamos um
 
 <br>
 
-O objetivo é adicionar o seu nome no seguinte arquivo: [NAMES.md]((https://github.com/Go-Horse-Coding/Git/blob/master/NAMES.md)).
+O objetivo é adicionar o seu nome no seguinte arquivo: [NAMES.md](https://github.com/Go-Horse-Coding/Git/blob/master/NAMES.md).
 
 # Autores
 * [Felipe Almeida](https://github.com/felipe-allmeida) - Criador do GoHorse Coding e Engenheiro de Software
