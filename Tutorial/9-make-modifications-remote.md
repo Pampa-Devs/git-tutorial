@@ -5,11 +5,11 @@ Vamos modificar novamente o nosso arquivo **README.md**, só que desta vez, dire
 1. Acesse o seu repositório remoto pelo link: https://github.com/seu_usuario_git/git4noobs
 2. Dentro da página, clique no arquivo **README.md**
 
-<img src="/Images/Tutorial/click_readme.png" width="220px" /> 
+<img src="/Images/Tutorial/click_readme.png" width="800px" /> 
 
 3. Clique na **caneta** para editar o arquivo
 
-<img src="/Images/Tutorial/click_pen.png" width="220px" />
+<img src="/Images/Tutorial/click_pen.png" width="800px" />
 
 4. Dentro da tela de edição, adicione um novo texto dentro do **README.md**
 ```
@@ -20,7 +20,7 @@ Estou editando este arquivo no meu repositório remoto
 
 5. Descendo a página, adicione um título ao seu **commit** e clique em **Commit Changes**
 
-<img src="/Images/Tutorial/click_commit_changes.png" width="220px" />
+<img src="/Images/Tutorial/click_commit_changes.png" width="800px" />
 
 <br>
 
