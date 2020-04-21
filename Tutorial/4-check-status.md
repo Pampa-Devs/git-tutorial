@@ -3,5 +3,5 @@
 Utilizando o comando git status, podemos ver as novas alterações no seu repositório recém criado
 
 <div align="center">
-  <img src="/Images/git_status.png" alt="Git" width="220px" /> 
+  <img src="/Images/Tutorial/git_status.png" alt="Git" width="650px" /> 
 </div>
