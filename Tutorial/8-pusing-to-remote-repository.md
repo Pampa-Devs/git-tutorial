@@ -12,4 +12,4 @@ git push -u origin master
 ```
 Por fim, **acessando o seu repositório remoto** novamente, podemos ver que o arquivo **README.md** irá estar lá!
 
-[**9.** Fazendo alterações diretamente no Repositório Remoto &rarr;](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/9-make-modifications-repository.md)
+[**9.** Fazendo alterações diretamente no Repositório Remoto &rarr;](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/9-make-modifications-remote.md)
