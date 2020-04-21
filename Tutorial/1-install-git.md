@@ -2,7 +2,7 @@
   <img src="/Images/git_bash.png" alt="Git" width="220px" /> 
 </div>
 
-# 1. Instalando e Configurando o Git
+# 1. Instalando e configurando o Git
 
 Execute os seguintes passos para instalar o Git em seu computador:
 
