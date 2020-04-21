@@ -96,7 +96,8 @@ Para isso você vai precisar fazer um **fork** deste repositório e um **pull re
 # Autores
 * [Felipe Almeida](https://github.com/felipe-allmeida) - Fundador do GoHorse Coding e Engenheiro de Software
 
-# Contribuições
+# Agradecimentos especiais
+Todos nessa lista contribuiram de alguma forma seja revisando, achando sinônimos. Básicamente alguma coisa que tornou o tutorial mais simples de se ler :)
 * [Henrique Melo]() - Por revisar todo o material inúmeras vezes de madrugada
 * [Matheus Girotto](https://github.com/felipe-allmeida)
 
