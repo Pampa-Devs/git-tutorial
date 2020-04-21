@@ -1,4 +1,4 @@
-# **5.** Colocando as modificações em **Stage** e fazendo **Commit**
+# **5.** Colocando as Modificações em **Stage** e Fazendo **Commit**
 
 ## Adicionando o README.md em stage
 
