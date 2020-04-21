@@ -94,7 +94,11 @@ O objetivo é adicionar o seu nome no seguinte arquivo: [NAMES.md](https://githu
 Para isso você vai precisar fazer um **fork** deste repositório e um **pull request** após adicionar o seu nome. Eu sei, você deve estar se perguntando o que é um **fork** e um **pull request**, isso também faz parte do desafio, um bom desenvolvedor é capaz de descobrir essa informação sozinho. Boa sorte!
 
 # Autores
-* [Felipe Almeida](https://github.com/felipe-allmeida) - Criador do GoHorse Coding e Engenheiro de Software
+* [Felipe Almeida](https://github.com/felipe-allmeida) - Fundador do GoHorse Coding e Engenheiro de Software
+
+# Contribuições
+* [Henrique Melo]() - Por revisar todo o material inúmeras vezes de madrugada
+* [Matheus Girotto](https://github.com/felipe-allmeida)
 
 # Referências
 * https://help.github.com/en/github/getting-started-with-github/quickstart
