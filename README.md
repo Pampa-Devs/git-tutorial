@@ -78,21 +78,20 @@ Pois então, criei alguns pequenos tutoriais abordando todos os conceitos acima.
 
 Bom estudo!
 
-0. [Instalando e Configurando o **Git**]()
-1. [Criando um **Repositório Git**]()
-2. [Fazendo modificações]()
-3. [Conferindo o **Status** do repositório]()
-4. [Adicionando modificações ao **Stage**]()
-5. [Fazendo **Commit** das modificações]()
-6. 
+1. [Instalando e configurando o **Git**](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/1-install-git.md)
+2. [Criando um **Repositório Git Local**](https://github.com/Go-Horse-Coding/Git/blod/master/Tutorial/2-create-repository.md)
+3. [Fazendo Modificações](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/3-make-modifications.md)
+4. [Conferindo o **Status** do repositório](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/4-check-status.md)
+5. [Colocando as Modificações em Stage e Fazendo Commit](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/5-adding-to-stage.md)
+6. [Criando um Repositório Remoto](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/6-create-remote-repository.md)
 
 # Desafio
 
 Agora está na hora de colocar tudo o que você aprendeu em prática. Criamos um desafio simples, porém irá exigir que você clone um repositório localmente, altere um arquivo, adicione esse arquivo em stage, utilize o commit e por fim o push para enviar as mudanças para o servidor.
 
-O objetivo é adicionar o seu nome no seguinte arquivo: [NAMES.md](https://github.com/Go-Horse-Coding/Git/blob/master/NAMES.md).
+<br>
 
-Boa sorte :)
+O objetivo é adicionar o seu nome no seguinte arquivo: [NAMES.md]((https://github.com/Go-Horse-Coding/Git/blob/master/NAMES.md)).
 
 # Autores
 * [Felipe Almeida](https://github.com/felipe-allmeida) - Criador do GoHorse Coding e Engenheiro de Software
