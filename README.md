@@ -12,7 +12,7 @@
 
 ## O que é Git?
 
-De longe, o **sistema de controle de versão moderno** mais usado no mundo hoje é o Git. O Git é um projeto de [código aberto](https://opensource.org/about), mantido ativamente, originalmente **desenvolvido em 2005 por Linus Torvalds**, o famoso **criador do kernel do sistema operacional Linux**.
+De longe, o **sistema de controle de versão moderno** mais usado no mundo hoje é o Git. O Git é um projeto de [código aberto](https://opensource.org/about), mantido ativamente, originalmente **desenvolvido em 2005 por [Linus Torvalds](https://pt.wikipedia.org/wiki/Linus_Torvalds)**, o famoso **criador do kernel do sistema operacional Linux**.
 
 Tendo uma arquitetura distribuída, **o Git é um exemplo de DVCS** (portanto, Sistema de Controle de Versão Distribuído). **Em vez de ter apenas um único local para o histórico completo da versão do software**, como é comum em sistemas de controle de versão outrora populares como CVS ou Subversion (também conhecido como SVN), no Git, **a cópia de trabalho de todo desenvolvedor do código também é um repositório** que pode conter o histórico completo de todas as alterações.
 
@@ -81,35 +81,6 @@ Agora está na hora de colocar tudo o que você aprendeu em prática. Criamos um
 O objetivo é adicionar o seu nome no seguinte arquivo: [NAMES.md](https://github.com/Go-Horse-Coding/Git/blob/master/NAMES.md).
 
 Boa sorte :)
-
-## Instalando o Git Bash para versionamento de software
-
-<img src="/Images/git_bash.png" alt="Git" width="50px" /> 
-
-1. Baixe o [Git Bash ](https://git-scm.com/downloads)
-2. Após o download execute o arquivo.
-3. Aperte **Next** para todas as opções.
-
-## Comandos [WIP]
-
-* git status
-* git add .
-* git commit -m "mensagem"
-* git push
-
-## Usando o Git Bash [WIP]
-
-TO DO
-
-## Tarefa [WIP]
-
-Vamos agora utlizar o Git para alterar o arquivo [NAMES.md](https://github.com/Go-Horse-Coding/Git/blob/master/NAMES.md)
-
-
-
-Para concluir esta tarefa você deve adicionar seu nome no seguinte arquivo:
-
-[Lista Nomes](https://github.com/Go-Horse-Coding/Git/blob/master/NAMES.md)
 
 # Autores
 * [Felipe Almeida](https://github.com/felipe-allmeida) - Criador do GoHorse Coding e Engenheiro de Software
