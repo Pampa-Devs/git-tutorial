@@ -1,7 +1,7 @@
 # 2. Criando um Repositório Git Local
 
 Agora vamos criar um **repositório** local em seu computador:
-1. Abra o **Git Bash** que instalamos no capítulo anterior.
+1. Escolha uma pasta em seu computador e com o botão direito do mouse clique em **Git Bash here**. Isso irá abrir a CLI (Interface de Linha de Comando) do **Git Bash** que instalamos no último capítulo:
 2. Utilizando o comando **mkdir**, crie um novo diretório:
 ```
 $ mkdir git4noobs
