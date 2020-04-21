@@ -1,4 +1,4 @@
-# 2. Criando um Repositório Git
+# 2. Criando um Repositório Git Local
 
 Agora vamos criar um **repositório** local em seu computador:
 1. Abra o **Git Bash** que instalamos no capítulo anterior.
