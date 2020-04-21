@@ -89,6 +89,10 @@ Agora está na hora de colocar tudo o que você aprendeu em prática. Criamos um
 
 O objetivo é adicionar o seu nome no seguinte arquivo: [NAMES.md](https://github.com/Go-Horse-Coding/Git/blob/master/NAMES.md).
 
+<br>
+
+Para isso você vai precisar fazer um **fork** deste repositório e um **pull request** após adicionar o seu nome. Eu sei, você deve estar se perguntando o que é um **fork** e um **pull request**, isso também faz parte do desafio, um bom desenvolvedor é capaz de descobrir essa informação sozinho. Boa sorte!
+
 # Autores
 * [Felipe Almeida](https://github.com/felipe-allmeida) - Criador do GoHorse Coding e Engenheiro de Software
 
