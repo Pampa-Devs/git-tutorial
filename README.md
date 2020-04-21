@@ -98,8 +98,9 @@ Para isso você vai precisar fazer um **fork** deste repositório e um **pull re
 
 # Agradecimentos especiais
 Todos nessa lista contribuiram de alguma forma seja revisando, achando sinônimos. Básicamente alguma coisa que tornou o tutorial mais simples de se ler :)
-* [Henrique Melo]() - Por revisar todo o material inúmeras vezes de madrugada
-* [Matheus Girotto](https://github.com/felipe-allmeida)
+* [usaruki](https://github.com/usaruki) - Por revisar todo o material inúmeras vezes de madrugada
+* [gvdamian](https://github.com/gvdamian)
+* [mpplayer1](https://github.com/mpplayer1)
 
 # Referências
 * https://help.github.com/en/github/getting-started-with-github/quickstart
