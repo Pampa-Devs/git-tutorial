@@ -1,7 +1,7 @@
 # 3. Fazendo Modificações
 
 Vamos adicionar um arquivo novo em seu **repositório** local. Com o GitBash aberto na pasta do projeto:
-1. Crie * arquivo **README.md** com a CLI (Interface de Linha de Comando) do GitBash
+1. Crie um arquivo **README.md** com a CLI (Interface de Linha de Comando) do GitBash
 ```
 $ touch README.md
 ```
