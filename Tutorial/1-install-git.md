@@ -13,7 +13,7 @@ Execute os seguintes passos para instalar o Git em seu computador:
   <img src="/Images/Tutorial/git-install-windows.png" alt="Git" width="450" /> 
 </div>
 
-3. Ao término, marque a opção para abrir o Git Bash e clique em **Finish** para concluir a instalação.
+3. Ao término, **marque a opção para abrir o Git Bash** e clique em **Finish** para concluir a instalação.
 4. Com o **prompt de comando** aberto, digite os seguintes comandos:
 ```
 git config --global user.name "João Silva"
