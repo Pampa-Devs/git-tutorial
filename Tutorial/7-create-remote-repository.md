@@ -1,6 +1,6 @@
 # **7.** Criando um Repositório Remoto
 
-##### Para colocar seu projeto em um repositório remoto, você precisará criar um repositório no servidor remoto no qual ele residirá, neste exmeplo utilizaremos o GitHub.
+##### Para colocar seu projeto em um repositório remoto, você precisará criar um repositório no servidor remoto no qual ele residirá, neste exemplo utilizaremos o GitHub.
 
 <div align="center">
   <img src="/Images/Tutorial/Octocat.png" alt="Git" width="220px" /> 
