@@ -32,4 +32,4 @@ Você pode armazenar inúmeros repositórios no GitHub, podendo compartilhar com
 
 Você criou um novo repositório em branco, parabéns!
 
-[**8.** Enviando as Modificações para o Repositório Remoto &rarr;](https://github.com/Go-Horse-Coding/git-tutorial/blob/master/Tutorial/8-pusing-to-remote-repository.md)
+[**8.** Enviando as Modificações para o Repositório Remoto &rarr;](https://github.com/Go-Horse-Coding/git-tutorial/blob/master/Tutorial/8-pushing-to-remote-repository.md)
