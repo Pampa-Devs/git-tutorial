@@ -30,4 +30,6 @@ Isso quer dizer que agora o seu **repositório local** está igual ao **reposit�
 
 Com isso chegamos ao final de nosso tutorial, espero que você tenha aproveitado!
 
-[&larr; Voltar a página inicial](https://github.com/Go-Horse-Coding/git-tutorial/blob/master/README.md)
+Preparamos um desafio para testar os seus conhecimentos:
+
+[Desafio &rarr;](https://github.com/Go-Horse-Coding/git-tutorial#desafio)
