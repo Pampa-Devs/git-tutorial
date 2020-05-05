@@ -18,4 +18,4 @@ Initialized empty Git repository in ~/git4noobs/.git/
 
 E *voilà*, repositório criado.
 
-[3. Fazendo modificações &rarr;](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/3-make-modifications.md)    
+[3. Fazendo modificações &rarr;](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/3-make-modifications.md)    

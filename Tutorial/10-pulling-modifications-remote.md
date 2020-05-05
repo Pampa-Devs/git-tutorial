@@ -32,4 +32,4 @@ Com isso chegamos ao final de nosso tutorial, espero que você tenha aproveitado
 
 Preparamos um desafio para testar os seus conhecimentos:
 
-[Desafio &rarr;](https://github.com/Go-Horse-Coding/git-tutorial#desafio)
+[Desafio &rarr;](https://github.com/Pampa-Devs/git-tutorial#desafio)

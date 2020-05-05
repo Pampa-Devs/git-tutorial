@@ -22,4 +22,4 @@ git config --global user.email "exemplo@seuemail.com.br"
 
 **Parabéns**, você instalou o Git!
 
-[2. Criando um Repositório Git &rarr;](https://github.com/Go-Horse-Coding/Git/blob/master/Tutorial/2-create-repository.md)
+[2. Criando um Repositório Git &rarr;](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/2-create-repository.md)
