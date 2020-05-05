@@ -116,7 +116,7 @@ $ git push
 
 
 # Autores
-* [Felipe Almeida](https://github.com/felipe-allmeida) - Fundador do GoHorse Coding e Engenheiro de Software
+* [Felipe Almeida](https://github.com/felipe-allmeida) - Fundador do PampDevs Coding e Engenheiro de Software
 
 # Agradecimentos especiais
 Todos nessa lista contribuiram de alguma forma seja revisando, achando sinônimos. Basicamente alguma coisa que tornou o tutorial mais simples de se ler :)
