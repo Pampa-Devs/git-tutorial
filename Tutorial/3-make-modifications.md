@@ -14,4 +14,4 @@ Meu nome é Felipe Almeida
 
 Pronto, você criou um arquivo novo dentro de seu repositório e adicionou um texto no mesmo.
 
-[4. Conferindo o Status do Repositório &rarr;](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/4-check-status.md)    
+[4. Conferindo o Status do Repositório &rarr;](https://github.com/Pampa-Devs/git-tutorial/blob/master/Tutorial/4-check-status.md)    
