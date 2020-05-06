@@ -62,4 +62,4 @@ Se você checar o seu arquivo **README.md** poderá observar que o texto dele ag
 Meu nome é Felipe Almeida
 ```
 
-[**7.** Criando um Repositório Remoto &rarr;](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/7-create-remote-repository.md)
+[**7.** Criando um Repositório Remoto &rarr;](https://github.com/Pampa-Devs/git-tutorial/blob/master/Tutorial/7-create-remote-repository.md)
