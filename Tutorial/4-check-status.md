@@ -15,4 +15,4 @@ Untracked files:
 
 Observe que o arquivo **README.md** esta sinalizado como **untracked (não rastreado)** pois ainda não adicionamos o mesmo na área de **stage**.
 
-[**5.** Colocando as modificações em **Stage** &rarr;](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/5-adding-to-stage.md)
+[**5.** Colocando as modificações em **Stage** &rarr;](https://github.com/Pampa-Devs/git-tutorial/blob/master/Tutorial/5-adding-to-stage.md)
