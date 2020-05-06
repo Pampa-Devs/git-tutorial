@@ -26,4 +26,4 @@ Estou editando este arquivo no meu repositório remoto
 
 Pronto, alteramos o nosso **README.md** em nosso **repositório remoto**.
 
-[**10.** Atualizando o Repositório Local &rarr;](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/10-pulling-modifications-remote.md)
+[**10.** Atualizando o Repositório Local &rarr;](https://github.com/Pampa-Devs/git-tutorial/blob/master/Tutorial/10-pulling-modifications-remote.md)
