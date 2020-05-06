@@ -74,17 +74,17 @@ Depois de toda essa aula teórica, imagino que você gostaria de algo mais prát
 Pois então, criei alguns pequenos tutoriais abordando todos os conceitos acima:
 
 <br>
-
-1. [Instalando e configurando o **Git**](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/1-install-git.md)
-2. [Criando um **Repositório Git Local**](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/2-create-repository.md)
-3. [Fazendo Modificações](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/3-make-modifications.md)
-4. [Conferindo o **Status** do repositório](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/4-check-status.md)
-5. [Colocando as Modificações em Stage e Fazendo Commit](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/5-adding-to-stage.md)
-6. [Comparando e Desfazendo Modificações](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/6-undoing-changes.md)
-7. [Criando um Repositório Remoto](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/7-create-remote-repository.md)
-8. [Enviando as Modificações para o Repositório Remoto](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/8-pushing-to-remote-repository.md)
-9. [Fazendo Modificações Diretamente no Repositório Remoto](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/9-make-modifications-remote.md)
-10. [Atualizando o Repositório Local](https://github.com/Pampa-Devs/Git/blob/master/Tutorial/10-pulling-modifications-remote.md)
+                                         
+1. [Instalando e configurando o **Git**](https://github.com/Pampa-Devs/git-tutorial/blob/master/Tutorial/1-install-git.md)
+2. [Criando um **Repositório Git Local**](https://github.com/Pampa-Devs/git-tutorial/blob/master/Tutorial/2-create-repository.md)
+3. [Fazendo Modificações](https://github.com/Pampa-Devs/git-tutorial/blob/master/Tutorial/3-make-modifications.md)
+4. [Conferindo o **Status** do repositório](https://github.com/Pampa-Devs/git-tutorial/blob/master/Tutorial/4-check-status.md)
+5. [Colocando as Modificações em Stage e Fazendo Commit](https://github.com/Pampa-Devs/git-tutorial/blob/master/Tutorial/5-adding-to-stage.md)
+6. [Comparando e Desfazendo Modificações](https://github.com/Pampa-Devs/git-tutorial/blob/master/Tutorial/6-undoing-changes.md)
+7. [Criando um Repositório Remoto](https://github.com/Pampa-Devs/git-tutorial/blob/master/Tutorial/7-create-remote-repository.md)
+8. [Enviando as Modificações para o Repositório Remoto](https://github.com/Pampa-Devs/git-tutorial/blob/master/Tutorial/8-pushing-to-remote-repository.md)
+9. [Fazendo Modificações Diretamente no Repositório Remoto](https://github.com/Pampa-Devs/git-tutorial/blob/master/Tutorial/9-make-modifications-remote.md)
+10. [Atualizando o Repositório Local](https://github.com/Pampa-Devs/git-tutorial/blob/master/Tutorial/10-pulling-modifications-remote.md)
 
 # Desafio
 
