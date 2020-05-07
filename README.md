@@ -99,9 +99,9 @@ Agora está na hora de colocar tudo o que você aprendeu em prática. Criamos um
 Para fazer isso você vai precisar seguir esses passos:
 1. Realize um **Fork** deste projeto clicando no botão **Fork** no parte superior direita desta página.
 2. Clique em **Clone or download** e copie a url 
-3. Em uma pasta em seu computador, abra o **Git Bash** e digite ´git checkout´ junto da url copiada
+3. Em uma pasta em seu computador, abra o **Git Bash** e digite `git checkout` junto da url copiada
 ```
-$ git checkout https://github.com/seu_usuario_git/git-tutorial.git
+$ git clone https://github.com/seu_usuario_git/git-tutorial.git
 ```
 4. Entre na pasta recém criada, **git-tutorial** e adicione o seu úsuario do GitHub no arquivo **NAMES.md**.
 5. Envie suas alterações para o seu repósitório **Fork**
