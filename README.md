@@ -92,7 +92,7 @@ Agora está na hora de colocar tudo o que você aprendeu em prática. Criamos um
 
 <br>
 
-**O objetivo é adicionar o seu nome no seguinte arquivo: [NAMES.md](https://github.com/Pampa-Devs/Git/blob/master/NAMES.md).**
+**O objetivo é adicionar o seu nome no seguinte arquivo: [NAMES.md](https://github.com/Pampa-Devs/git-tutorial/blob/master/NAMES.md).**
 
 <br>
 
