@@ -5,4 +5,5 @@
 * [gvdamian](https://github.com/gvdamian)
 * [lucaslopes-commits](https://github.com/lucaslopes-commits)
 * [dliedke](https://github.com/dliedke)
+* [rafagoomes] (https://github.com/rafagoomes)
 
