@@ -6,4 +6,4 @@
 * [lucaslopes-commits](https://github.com/lucaslopes-commits)
 * [dliedke](https://github.com/dliedke)
 * [rafagoomes](https://github.com/rafagoomes)
-
+* [Lucas LKZ](https://github.com/Lkzz75) 
