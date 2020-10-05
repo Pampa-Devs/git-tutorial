@@ -8,3 +8,4 @@
 * [rafagoomes](https://github.com/rafagoomes)
 * [Lucas LKZ](https://github.com/Lkzz75) 
 * [raphaellc](https://github.com/raphaellc)
+* [llatoski](https://github.com/llatoski)
