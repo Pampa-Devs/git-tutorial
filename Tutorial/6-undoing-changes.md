@@ -3,7 +3,7 @@
 ## Adicionando nova modificação
 
 Abra o seu arquivo **README.md** novamente e adicione um novo texto:
-```
+```git
 Meu nome é Felipe Almeida
 
 Eu gosto de desenvolver utilizando C#
@@ -12,7 +12,7 @@ Eu gosto de desenvolver utilizando C#
 <br>
 
 Mais uma vez, execute o comando **git status** para ver as alterações:
-```
+```git
 $ git status
 On branch master
 Changes not staged for commit:
@@ -30,7 +30,7 @@ Sabemos que o arquivo **README.md** foi modificado, mas como sabemos exatamente 
 
 
 Entrando com o comando **git diff** podemos verificar exatamente o que foi alterado.
-```
+```git
 $ git diff
 diff --git a/README.md b/README.md
 index 74ca211..06ce193 100644
@@ -53,7 +53,7 @@ Agora, vamos supor que essa nova linha que adicionamos sejá desnecessária. Com
 <br>
 
 Simplesmente digite **git reset --hard**. Este comando irá desfazer todas as modificações que você fez depois do último commit.
-```
+```git
 $ git reset --hard
 HEAD is now at e037bf8 Adicionando arquivos em stage no repositório
 ```
