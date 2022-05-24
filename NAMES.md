@@ -10,3 +10,4 @@
 * [raphaellc](https://github.com/raphaellc)
 * [llatoski](https://github.com/llatoski)
 * [Vitor-Marciniuk](https://github.com/Vitor-Marciniuk)
+* [Pedro Henrique](https://github.com/iroDevs)
