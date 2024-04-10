@@ -11,3 +11,4 @@
 * [llatoski](https://github.com/llatoski)
 * [Vitor-Marciniuk](https://github.com/Vitor-Marciniuk)
 * [Pedro Henrique](https://github.com/iroDevs)
+* [Vah Zanatta](https://github.com/vahzanatta)
